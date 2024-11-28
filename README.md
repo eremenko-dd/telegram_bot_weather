@@ -1,4 +1,4 @@
-# weather
+# telegram bot weather
 telegram bot showing weather
 
 To work with the bot, you need to:
