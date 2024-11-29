@@ -7,5 +7,6 @@ To work with the bot, you need to:
 
 The bot shows the weather for pre-specified cities.
 To work with the bot, you need the following libraries:
+python v 3.10
 aiogram v 2.23.1
 python_weather v 0.3.7
