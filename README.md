@@ -10,3 +10,4 @@ To work with the bot, you need the following libraries:
 python v 3.10
 aiogram v 2.23.1
 python_weather v 0.3.7
+(pip install --force-reinstall -v "python_weather==0.3.7")
